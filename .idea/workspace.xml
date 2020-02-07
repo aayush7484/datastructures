@@ -24,6 +24,7 @@
     <option name="height" value="980" />
   </component>
   <component name="ProjectId" id="1XTFX4MfAViGZotkwX9zS17NsmE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,17 +69,40 @@
       <option name="presentableId" value="Default" />
       <updated>1580190968295</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1581062372265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581062372265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial">
+      <created>1581062497619</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581062497620</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="452" y="95" key="#Notifications" timestamp="1581062504422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="95" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1581062504422" />
     <state x="640" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581062252736">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581062252736" />
-    <state x="545" y="47" key="CommitChangelistDialog2" timestamp="1581062362397">
+    <state x="545" y="47" key="CommitChangelistDialog2" timestamp="1581062566194">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="545" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581062362397" />
+    <state x="545" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581062566194" />
     <state x="803" y="390" key="Github.ShareDialog" timestamp="1581062301903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
