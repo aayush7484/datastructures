@@ -75,9 +75,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581062252736" />
+    <state x="545" y="47" key="CommitChangelistDialog2" timestamp="1581062362397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="545" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581062362397" />
     <state x="803" y="390" key="Github.ShareDialog" timestamp="1581062301903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="390" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581062301903" />
+    <state x="704" y="158" key="Github.UntrackedFilesDialog" timestamp="1581062381233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="704" y="158" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581062381233" />
   </component>
 </project>
