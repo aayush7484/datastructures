@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3756127e-efaf-4d94-adb7-575f4756c8ca" name="Default Changelist" comment="initial">
-      <change afterPath="$PROJECT_DIR$/Arraystack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binarysearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/binarysearchrecursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queuearray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/datastructures.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datastructures.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +33,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Arraystack">
-    <configuration name="Arraystack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.queuearray">
+    <configuration name="Arraystack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,48 +80,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="binarysearchrecursive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="datastructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binarysearchrecursive.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="datastructures" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Mr Spectre\PycharmProject\datastructures\exceptions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="linearsearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="datastructures" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -140,13 +101,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="prime" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datastructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prime.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="queuearray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datastructures" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queuearray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Arraystack" />
-        <item itemvalue="Python.exceptions" />
-        <item itemvalue="Python.binarysearchrecursive" />
-        <item itemvalue="Python.binarysearch" />
+        <item itemvalue="Python.queuearray" />
+        <item itemvalue="Python.prime" />
         <item itemvalue="Python.linearsearch" />
+        <item itemvalue="Python.Arraystack" />
+        <item itemvalue="Python.binarysearch" />
       </list>
     </recent_temporary>
   </component>
@@ -190,18 +193,24 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="679" y="132" key="#Arraystack" timestamp="1585304992301">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="679" y="132" key="#Arraystack/0.0.1920.1036@0.0.1920.1036" timestamp="1585304992301" />
     <state x="452" y="95" key="#Notifications" timestamp="1581062504422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="95" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1581062504422" />
-    <state x="640" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581774934435">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="640" y="234" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1585304037106">
+      <screen x="0" y="0" width="1920" height="1036" />
     </state>
+    <state x="640" y="234" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1585304037106" />
     <state x="640" y="235" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581774934435" />
-    <state x="545" y="47" key="CommitChangelistDialog2" timestamp="1581062782331">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="545" y="47" key="CommitChangelistDialog2" timestamp="1588504014617">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="545" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581062782331" />
+    <state x="545" y="47" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1588504014617" />
     <state x="803" y="390" key="Github.ShareDialog" timestamp="1581063045786">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -210,29 +219,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="158" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581062381233" />
-    <state width="1893" height="267" key="GridCell.Tab.0.bottom" timestamp="1582369305349">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1362" height="264" key="GridCell.Tab.0.bottom" timestamp="1588503940918">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1362" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1036@0.0.1920.1036" timestamp="1585830566786" />
     <state width="1893" height="267" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582369305349" />
-    <state width="1893" height="267" key="GridCell.Tab.0.center" timestamp="1582369305349">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1362" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1588503940918" />
+    <state width="1362" height="264" key="GridCell.Tab.0.center" timestamp="1588503940918">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1362" height="265" key="GridCell.Tab.0.center/0.0.1920.1036@0.0.1920.1036" timestamp="1585830566786" />
     <state width="1893" height="267" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582369305349" />
-    <state width="1893" height="267" key="GridCell.Tab.0.left" timestamp="1582369305349">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1362" height="264" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1588503940918" />
+    <state width="1362" height="264" key="GridCell.Tab.0.left" timestamp="1588503940918">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1362" height="265" key="GridCell.Tab.0.left/0.0.1920.1036@0.0.1920.1036" timestamp="1585830566786" />
     <state width="1893" height="267" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582369305349" />
-    <state width="1893" height="267" key="GridCell.Tab.0.right" timestamp="1582369305349">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1362" height="264" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1588503940918" />
+    <state width="1362" height="264" key="GridCell.Tab.0.right" timestamp="1588503940918">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
+    <state width="1362" height="265" key="GridCell.Tab.0.right/0.0.1920.1036@0.0.1920.1036" timestamp="1585830566786" />
     <state width="1893" height="267" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582369305349" />
+    <state width="1362" height="264" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1588503940918" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1585305516259">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1036@0.0.1920.1036" timestamp="1585305516259" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583082315190" />
     <state x="452" y="188" key="Vcs.Push.Dialog.v2" timestamp="1582369492096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="452" y="188" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582369492096" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1583082227612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583082227612" />
     <state x="738" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582369451849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="417" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582369451849" />
+    <state x="664" y="309" key="git4idea.merge.GitPullDialog" timestamp="1585305715612">
+      <screen x="0" y="0" width="1920" height="1036" />
+    </state>
+    <state x="664" y="309" key="git4idea.merge.GitPullDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1585305715612" />
   </component>
 </project>
